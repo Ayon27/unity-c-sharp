@@ -58,8 +58,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Mover.cs" />
      <Compile Include="Assets\Scripts\Talker.cs" />
+     <Compile Include="Assets\Scripts\TeddyBear.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Ayn/Desktop/Unity Projects/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
